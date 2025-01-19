@@ -36,6 +36,9 @@
     "Python.Semana2.executor": "Run",
     "Python.Semana3POO.executor": "Run",
     "Python.Semana3Tradicional.executor": "Run",
+    "Python.Semana5.executor": "Debug",
+    "Python.Semana6.executor": "Debug",
+    "Python.libreria.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -64,6 +67,8 @@
       <updated>1734305615167</updated>
       <workItem from="1734305643372" duration="1113000" />
       <workItem from="1734306938970" duration="651000" />
+      <workItem from="1736725931471" duration="1479000" />
+      <workItem from="1737310704199" duration="461000" />
     </task>
     <servers />
   </component>
@@ -71,6 +76,9 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2425_POO_BarrionuevoRobin$libreria.coverage" NAME="libreria Coverage Results" MODIFIED="1736726314893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EjemplosMundoReal_POO" />
+    <SUITE FILE_PATH="coverage/2425_POO_BarrionuevoRobin$Semana5.coverage" NAME="Semana5 Coverage Results" MODIFIED="1736727771821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1" />
+    <SUITE FILE_PATH="coverage/2425_POO_BarrionuevoRobin$Semana6.coverage" NAME="Semana6 Coverage Results" MODIFIED="1737311324881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1" />
     <SUITE FILE_PATH="coverage/2425_POO_BarrionuevoRobin$Semana2.coverage" NAME="Semana2 Coverage Results" MODIFIED="1734306412857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1" />
     <SUITE FILE_PATH="coverage/2425_POO_BarrionuevoRobin$Semana3Tradicional.coverage" NAME="Semana3Tradicional Coverage Results" MODIFIED="1734307204648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1" />
     <SUITE FILE_PATH="coverage/2425_POO_BarrionuevoRobin$Semana3POO.coverage" NAME="Semana3POO Coverage Results" MODIFIED="1734307297477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 1" />
