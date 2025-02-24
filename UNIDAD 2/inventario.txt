@@ -1,0 +1,8 @@
+{
+    "pa\u00f1ales": 2,
+    "papel higienico": 7,
+    "queso": 1,
+    "Agua": 20,
+    "refresco": 17,
+    "confiteria": 32
+}
