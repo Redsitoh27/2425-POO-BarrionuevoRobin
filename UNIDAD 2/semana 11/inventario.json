@@ -1,0 +1,14 @@
+{
+    "1": {
+        "ID": "1",
+        "Nombre": "Jabon",
+        "Cantidad": 10,
+        "Precio": 1.25
+    },
+    "2": {
+        "ID": "2",
+        "Nombre": "Fideos",
+        "Cantidad": 8,
+        "Precio": 2.0
+    }
+}
